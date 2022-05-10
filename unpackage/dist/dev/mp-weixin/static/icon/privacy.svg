@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+  <g id="life-buoy" transform="translate(1 1)">
+    <circle id="Oval" cx="8" cy="8" r="8" fill="none" stroke="#5353ce" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <circle id="Oval-2" data-name="Oval" cx="3.2" cy="3.2" r="3.2" transform="translate(4.8 4.8)" stroke-width="2" stroke="#5353ce" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" fill="none"/>
+    <path id="Path" d="M0,0,3.392,3.392" transform="translate(2.344 2.344)" fill="none" stroke="#5353ce" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Path-2" data-name="Path" d="M0,0,3.392,3.392" transform="translate(10.264 10.264)" fill="none" stroke="#5353ce" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Path-3" data-name="Path" d="M0,3.392,3.392,0" transform="translate(10.264 2.344)" fill="none" stroke="#5353ce" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Path-4" data-name="Path" d="M0,2.824,2.824,0" transform="translate(10.264 2.912)" fill="none" stroke="#5353ce" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Path-5" data-name="Path" d="M0,3.392,3.392,0" transform="translate(2.344 10.264)" fill="none" stroke="#5353ce" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+  </g>
+</svg>

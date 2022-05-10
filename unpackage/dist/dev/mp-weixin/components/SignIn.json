@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "k-button": "/components/Button"
+  },
+  "component": true
+}

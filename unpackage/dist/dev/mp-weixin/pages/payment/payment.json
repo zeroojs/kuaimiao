@@ -1,0 +1,8 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "navbar": "/components/Navbar/Navbar",
+    "pay-card": "/components/PayCard",
+    "recent-activitie-card": "/components/RecentActivitieCard"
+  }
+}

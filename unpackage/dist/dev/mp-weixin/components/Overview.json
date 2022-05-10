@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "avatar": "/components/Avatar",
+    "k-button": "/components/Button"
+  }
+}

@@ -1,0 +1,25 @@
+{
+    "pages": [
+        "pages/start/start",
+        "pages/wlecome/wlecome",
+        "pages/landing/landing",
+        "pages/message/message",
+        "pages/history/history",
+        "pages/map/map",
+        "pages/index/index",
+        "pages/payment/payment",
+        "pages/setting/setting",
+        "pages/invite/invite",
+        "pages/notifications/notifications",
+        "pages/SignUp/SignUp"
+    ],
+    "subPackages": [],
+    "window": {
+        "navigationBarTextStyle": "black",
+        "navigationBarTitleText": "uni-app",
+        "navigationBarBackgroundColor": "#F8F8F8",
+        "backgroundColor": "#F8F8F8"
+    },
+    "usingComponents": {},
+    "sitemapLocation": "sitemap.json"
+}

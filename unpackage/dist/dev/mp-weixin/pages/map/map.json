@@ -1,0 +1,16 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "navbar": "/components/Navbar/Navbar",
+    "uni-popup": "/components/uni-popup/uni-popup",
+    "fixed-card": "/components/FixedCard",
+    "local-input": "/components/LocalRoute/LocalInput",
+    "rated-driver": "/components/LocalRoute/RatedDriver",
+    "book-success": "/components/LocalRoute/BookSuccess",
+    "promo-code-card": "/components/LocalRoute/PromoCodeCard",
+    "driver-fixed-car": "/components/LocalRoute/DriverFixedCar",
+    "local-init-input": "/components/LocalRoute/LocalInitInput",
+    "choose-car-fixed-card": "/components/LocalRoute/ChooseCarFixedCard",
+    "destination-fixed-card": "/components/LocalRoute/DestinationFixedCard"
+  }
+}

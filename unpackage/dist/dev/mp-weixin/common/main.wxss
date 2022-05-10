@@ -1,0 +1,42 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*每个页面公共css */
+.linear-bg {
+	height: 100vh;
+	background:linear-gradient($uni-color-blue, $uni-color-purle);
+}
+

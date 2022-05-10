@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18.71" height="18.995" viewBox="0 0 18.71 18.995">
+  <g id="copy" transform="translate(0.5 0.5)">
+    <path id="Shape" d="M1.714,13.139A1.714,1.714,0,0,1,0,11.425V1.714A1.714,1.714,0,0,1,1.714,0h9.712a1.714,1.714,0,0,1,1.714,1.714v9.712a1.713,1.713,0,0,1-1.714,1.714Z" transform="translate(0 4.856)" fill="#5b5b5b" stroke="#5b5b5b" stroke-miterlimit="10" stroke-width="1"/>
+    <path id="Path" d="M12,0H1.714A1.714,1.714,0,0,0,0,1.714a.571.571,0,1,0,1.143,0,.571.571,0,0,1,.571-.571H12a.571.571,0,0,1,.571.571V12a.571.571,0,0,1-.571.571.571.571,0,1,0,0,1.143A1.714,1.714,0,0,0,13.71,12V1.714A1.714,1.714,0,0,0,12,0Z" transform="translate(4 0)" fill="#5b5b5b" stroke="#5b5b5b" stroke-miterlimit="10" stroke-width="1"/>
+  </g>
+</svg>

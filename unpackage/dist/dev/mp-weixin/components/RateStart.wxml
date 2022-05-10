@@ -1,0 +1,1 @@
+<view><view class="rate-start-group"><block wx:for="{{[1,2,3,4,5]}}" wx:for-item="item" wx:for-index="index"><image class="{{['rate-start',index<leave?'active':'']}}" style="{{(startStyle)}}" src="{{index<leave?'../static/icon/start-active.svg':'../static/icon/start.svg'}}" mode></image></block></view></view>

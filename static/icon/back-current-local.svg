@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="110" height="110" viewBox="0 0 110 110">
+  <defs>
+    <filter id="Rectangle" x="0" y="0" width="110" height="110" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-color="#858488" flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Location" transform="translate(30 20)">
+    <g transform="matrix(1, 0, 0, 1, -30, -20)" filter="url(#Rectangle)">
+      <rect id="Rectangle-2" data-name="Rectangle" width="50" height="50" rx="4" transform="translate(30 20)" fill="#fff"/>
+    </g>
+    <g id="gps" transform="translate(13 13)">
+      <path id="Shape" d="M11.363,25V22.613a10.148,10.148,0,0,1-8.977-8.977H0V11.363H2.387a9.942,9.942,0,0,1,8.977-8.977V0h2.273V2.387a10.149,10.149,0,0,1,8.977,8.977H25v2.273H22.613a10.149,10.149,0,0,1-8.977,8.977V25Z"/>
+    </g>
+  </g>
+</svg>

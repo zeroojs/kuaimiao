@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="24" viewBox="0 0 20 24">
+  <g id="map-pin" transform="translate(1 1)">
+    <path id="Path" d="M18,9c0,7-9,13-9,13S0,16,0,9A9,9,0,0,1,18,9Z" transform="translate(0 0)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <circle id="Oval" cx="3" cy="3" r="3" stroke-width="2" transform="translate(6 6)" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" fill="none"/>
+  </g>
+</svg>

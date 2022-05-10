@@ -1,0 +1,1 @@
+<view data-event-opts="{{[['tap',[['aotuInWelcomePage']]]]}}" class="start linear-bg" bindtap="__e"><image class="logo app-logo" src="../../static/images/logo.svg" mode></image><view class="app-name">Kuai Mao</view></view>

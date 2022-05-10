@@ -1,0 +1,10 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "sign-in": "/components/SignIn",
+    "sign-up": "/components/SignUp",
+    "overview": "/components/Overview",
+    "enter-code": "/components/EnterCode",
+    "verify-step": "/components/VerifyStep"
+  }
+}
